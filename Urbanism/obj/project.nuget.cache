@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vP1IjDkXwECSdsFmlIrEEOLQJNnZlQMrEqP2l2Ib5T7LuhpHi6sbsHW+moscwJnY/SHYcd8wtrB7uFzLa5prXw==",
+  "success": true,
+  "projectFilePath": "F:\\学Revit\\UrbanSimulator\\Urbanism\\Urbanism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhang\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
